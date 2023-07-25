@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+.nav-bar { 
+    background-color: rgb(253, 249, 249);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid green;
+}
+.logo {
+margin-top: 20px;
+margin-bottom: 20px;
+object-fit: contain;
+width: 110px;
+height: 50px;
+margin-right: auto;
+margin-left: auto;
+border: 2px solid red;
+}
